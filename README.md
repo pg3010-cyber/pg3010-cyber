@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pari Gupta</h1>
 <h3 align="center">B.Tech CSE | Web Developer | AI Enthusiast</h3>
 
+<p align="right">
+  <img src="https://cdn-icons-png.flaticon.com/512/616/616430.png" width="50"/>
+</p>
+
 <!-- Typing Animation (WORKING) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=00F7FF&size=24&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Projects;Always+Learning" />
@@ -98,12 +102,6 @@
 </tr>
 </table>
 
-
----
-
-<p align="right">
-  <img src="https://cdn-icons-png.flaticon.com/512/616/616430.png" width="60"/>
-</p>
 
 ---
 
