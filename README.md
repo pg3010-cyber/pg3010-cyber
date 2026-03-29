@@ -101,6 +101,12 @@
 
 ---
 
+<p align="right">
+  <img src="https://cdn-icons-png.flaticon.com/512/616/616430.png" width="60"/>
+</p>
+
+---
+
 
 ### 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/pari-gupta-25471b310/
