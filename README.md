@@ -8,10 +8,15 @@
 
 ---
 
-### 👩‍💻 About Me
-- 🎓 CSE student at SRM University  
-- 💻 Building AI & Web projects  
-- 🚀 Learning Next.js & Python  
+## 🚀 About Me
+
+I'm a curious and driven developer who enjoys transforming ideas into real-world applications. I love working at the intersection of web development and intelligent systems, constantly pushing myself to learn and build better.
+
+- 💻 **Full-Stack Explorer** — Building modern, responsive, and scalable web applications  
+- 🤖 **AI Enthusiast** — Exploring Machine Learning and smart system development  
+- 🚀 **Project-Oriented Learner** — I learn by building impactful and practical projects  
+- 🔧 **Tech Curious** — Always experimenting with new tools, frameworks, and ideas  
+- 🤝 **Collaborative Mindset** — Open to teamwork, innovation, and meaningful contributions
 
 ---
 
