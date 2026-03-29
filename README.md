@@ -29,7 +29,7 @@
 - 🤝 Open to collaboration, hackathons, and exciting project ideas  
 - ⚡ I enjoy traveling, music, and exploring new technologies  
 
-📫 You can reach me at: [pg4347@srmist.edu.in
+- 📫 You can reach me at: [pg4347@srmist.edu.in](mailto:pg4347@srmist.edu.in)
 ---
 
 <p align="center">
