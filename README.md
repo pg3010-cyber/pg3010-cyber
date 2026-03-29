@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pari Gupta</h1>
 <h3 align="center">B.Tech CSE | Web Developer | AI Enthusiast</h3>
 
-<!-- Typing Animation -->
+<!-- Typing Animation (FIXED) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Cool+Projects;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Cool+Projects;Always+Learning+🚀" />
 </p>
 
-<!-- Streak Stats -->
+<!-- Streak (already working) -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pg3010-cyber&theme=tokyonight" />
 </p>
+
+<!-- REMOVE broken stats temporarily -->
 
 <!-- GitHub Stats -->
 <p align="center">
