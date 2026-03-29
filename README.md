@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pari Gupta</h1>
+<h1 align="center">Hi 👋, I'm Pari Gupta</h1> <img src="https://cdn-icons-png.flaticon.com/512/616/616430.png" width="30"/>
 <h3 align="center">B.Tech CSE | Web Developer | AI Enthusiast</h3>
-
-<p align="right">
-  <img src="https://cdn-icons-png.flaticon.com/512/616/616430.png" width="50"/>
-</p>
 
 <!-- Typing Animation (WORKING) -->
 <p align="center">
