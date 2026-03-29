@@ -1,4 +1,8 @@
-## Hi! I'm Pari Gupta <img src="https://cdn-icons-png.flaticon.com/512/616/616430.png" width="30"/>
+<h2 align="center">
+  Hi! I'm Pari Gupta 
+  <img src="https://cdn-icons-png.flaticon.com/512/616/616430.png" width="30"/>
+</h2>
+
 <h3 align="center">B.Tech CSE | Web Developer | AI Enthusiast</h3>
 
 <!-- Typing Animation (WORKING) -->
