@@ -36,4 +36,4 @@ I'm a curious and driven developer who enjoys transforming ideas into real-world
 ---
 
 ### 📫 Connect
-- LinkedIn: YOUR_LINK  
+- LinkedIn: (https://www.linkedin.com/in/pari-gupta-25471b310/)
