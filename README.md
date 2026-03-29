@@ -28,8 +28,12 @@
 🚀 Exploring Full Stack Development, Machine Learning, and modern tech stacks  
 🤝 Open to collaboration, hackathons, and exciting project ideas  
 ⚡ I enjoy traveling, music, and exploring new technologies  
+---
 
-📫 You can reach me at: pg4347@srmist.edu.in
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
 ---
 
 ## 💻 Tech Stack
