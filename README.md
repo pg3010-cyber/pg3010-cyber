@@ -3,7 +3,7 @@
 
 <!-- Typing Animation (WORKING) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Cool+Projects;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&color=00F7FF&size=24&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Projects;Always+Learning" />
 </p>
 
 <!-- Streak Stats (WORKING) -->
