@@ -20,16 +20,16 @@
 
 ---
 
-## 🚀 About Me
+## Hi! I'm Pari Gupta 👋
 
-I'm a curious and driven developer who enjoys transforming ideas into real-world applications. I love working at the intersection of web development and intelligent systems, constantly pushing myself to learn and build better.
+💡 Always curious about building innovative solutions and solving real-world problems  
+💻 Currently working on Web Development and AI-based projects  
+🎓 Pursuing B.Tech CSE at SRM Institute of Science and Technology  
+🚀 Exploring Full Stack Development, Machine Learning, and modern tech stacks  
+🤝 Open to collaboration, hackathons, and exciting project ideas  
+⚡ I enjoy traveling, music, and exploring new technologies  
 
-- 💻 **Full-Stack Explorer** — Building modern, responsive, and scalable web applications  
-- 🤖 **AI Enthusiast** — Exploring Machine Learning and smart system development  
-- 🚀 **Project-Oriented Learner** — I learn by building impactful and practical projects  
-- 🔧 **Tech Curious** — Always experimenting with new tools, frameworks, and ideas  
-- 🤝 **Collaborative Mindset** — Open to teamwork, innovation, and meaningful contributions  
-
+📫 You can reach me at: pg4347@srmist.edu.in
 ---
 
 ## 💻 Tech Stack
