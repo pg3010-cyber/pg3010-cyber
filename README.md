@@ -1,32 +1,21 @@
 <h1 align="center">Hi 👋, I'm Pari Gupta</h1>
 <h3 align="center">B.Tech CSE | Web Developer | AI Enthusiast</h3>
 
-<!-- Typing Animation (FIXED) -->
+<!-- Typing Animation (WORKING) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Cool+Projects;Always+Learning+🚀" />
 </p>
 
-<!-- Streak (already working) -->
+<!-- Streak Stats (WORKING) -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pg3010-cyber&theme=tokyonight" />
 </p>
 
-<!-- REMOVE broken stats temporarily -->
+<!-- REMOVE unstable vercel stats -->
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pg3010-cyber&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pg3010-cyber&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<!-- Visitor Counter -->
+<!-- Visitor Counter (WORKING) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pg3010-cyber&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<!-- Trophy Section -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pg3010-cyber&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
